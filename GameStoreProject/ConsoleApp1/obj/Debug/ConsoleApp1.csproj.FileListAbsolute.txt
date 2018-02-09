@@ -1,0 +1,6 @@
+C:\Users\Lasse\Git\GameStore\GameStoreProject\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Lasse\Git\GameStore\GameStoreProject\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lasse\Git\GameStore\GameStoreProject\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Lasse\Git\GameStore\GameStoreProject\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Lasse\Git\GameStore\GameStoreProject\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Lasse\Git\GameStore\GameStoreProject\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
